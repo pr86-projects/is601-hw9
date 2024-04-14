@@ -1,5 +1,16 @@
 # RestAPI for Creating QR Codes
 
+## Submission
+1. Create a new repo on dockerhub "pr86projects/hw9_devops_demo"
+2. Modify the production.yml file to point to this new repo
+3. Configure GitHub repo environment variables DOCKERHUB_USERNAME and DOCKERHUB_TOKEN
+4. Commit and push changes to GitHub https://github.com/pr86-projects/is601-hw9 
+
+DockerHub repo: https://hub.docker.com/repository/docker/pr86projects/hw9_devops_demo/general
+
+![image](DockerHubScreenShot.png)
+
+
 # Instructor Videos
 * [Rest API Project Overview](https://youtu.be/xEcBKSSXxhQ)
 
