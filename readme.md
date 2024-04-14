@@ -13,6 +13,10 @@ DockerHub repo: https://hub.docker.com/repository/docker/pr86projects/hw9_devops
 
 # Instructor Videos
 * [Rest API Project Overview](https://youtu.be/xEcBKSSXxhQ)
+* [QR Code Overview for Assignment](https://youtu.be/E6b9VkQpQ-U)
+## Optional but extremely helpful:
+1. [Best Series to Learn Bash Scripting Seriously learn this!!!](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
+2.  [Listen to someone else explain FastAPI and go through a project](https://www.youtube.com/watch?v=cbASjoZZGIw)
 
 # Install
 1. Clone
